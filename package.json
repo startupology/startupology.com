@@ -1,0 +1,26 @@
+{
+    "name": "startupology.com",
+    "version": "0.0.1",
+    "description": "startupology - the study of startups",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start",
+        "netlify": "npm run build && next export",
+        "test": "make test"
+    },
+    "keywords": [],
+    "author": "Van Nguyen <thegoleffect@gmail.com>",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "@emotion/core": "^10.0.10",
+        "@emotion/styled": "^10.0.12",
+        "@zeit/next-css": "^1.0.1",
+        "babel-plugin-emotion": "^10.0.13",
+        "emotion-theming": "^10.0.10",
+        "next": "^8.1.0",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6"
+    }
+}
