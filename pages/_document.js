@@ -11,6 +11,7 @@ class MyDocument extends Document {
             <Html>
                 <Head>
                     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+                    <link rel="icon" type="image/x-icon" href="/static/favicon.ico" />
                 </Head>
                 <body>
                     <Main />
