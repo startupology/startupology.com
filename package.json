@@ -20,7 +20,9 @@
         "babel-plugin-emotion": "^10.0.13",
         "emotion-theming": "^10.0.10",
         "next": "^8.1.0",
+        "raw-loader": "^3.0.0",
         "react": "^16.8.6",
-        "react-dom": "^16.8.6"
+        "react-dom": "^16.8.6",
+        "react-markdown": "^4.0.8"
     }
 }
